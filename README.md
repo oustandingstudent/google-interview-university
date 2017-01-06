@@ -29,7 +29,7 @@ If you want to be a reliability engineer or systems engineer, study more from th
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
-- [My Personal Notes]((#my-personal-notes)
+- [My Personal Notes](#my-personal-notes)
 - [Get in a Googley Mood](#get-in-a-googley-mood)
 - [Did I Get the Job?](#did-i-get-the-job)
 - [Follow Along with Me](#follow-along-with-me)
