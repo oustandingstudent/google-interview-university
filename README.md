@@ -29,6 +29,7 @@ If you want to be a reliability engineer or systems engineer, study more from th
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
+- [My Personal Notes]((#my-personal-notes)
 - [Get in a Googley Mood](#get-in-a-googley-mood)
 - [Did I Get the Job?](#did-i-get-the-job)
 - [Follow Along with Me](#follow-along-with-me)
@@ -171,28 +172,19 @@ Everything below is an outline, and you should tackle the items in order from to
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
 
-**Create a new branch so you can check items like this, just put an x in the brackets: [x]**
+## My personal notes
 
+I will keep this to remind me of idiosyncrasies when learning stuff. This will help me not to be caught in the same bad habits again.
 
-    Fork a branch and follow the commands below
+- Take notes of what you are studying - your own words
+- Take notes on video lectures
+- Mindmaps can help, but they are not note taking
+- About notes: they should be done to fixate knowledge and also to enable future reviewing (this last point is very important)
+- Do lots of exercises - only this will build real knowledge
+- Create the flashcards on Mnemosyne after the initial grasp of a concept
+- Work ardently and after some time you will have a new habit pattern
+- Remember your objectives when you get demotivated (this will happen a lot). If I accomplish these studies it will really change me, my life and my perspectives
 
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/google-interview-university`
-
-`git fetch --all`
-
-    Mark all boxes with X after you completed your changes
-
-`git add . `
-
-`git commit -m "Marked x" `
-
-`git rebase jwasham/master `
-
-`git push --force `
-
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Get in a Googley Mood
 
@@ -1987,6 +1979,7 @@ Sit back and enjoy. "Netflix and skill" :P
 - [ ] [Carnegie Mellon - Computer Architecture Lectures (39 videos)](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 
 - [ ] [MIT 6.006: Intro to Algorithms (47 videos)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&nohtml5=False)
+  - [OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 - [ ] [MIT 6.033: Computer System Engineering (22 videos)](https://www.youtube.com/watch?v=zm2VP0kHl1M&list=PL6535748F59DCA484)
 
