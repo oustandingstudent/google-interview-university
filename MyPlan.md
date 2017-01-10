@@ -3,10 +3,10 @@
     - [ ] [Mathematical thinking](https://www.coursera.org/learn/mathematical-thinking)
     - [ ] [Pre-University Calculus](https://courses.edx.org/courses/course-v1:DelftX+Calc001x+3T2016/) (if necessary, there is a pre-calculus course on coursera that focus on [trigonometry](https://www.coursera.org/learn/trigonometry/))
         - Make sure to get foundations on trigonometry and logarithms
-    - [ ] [MIT Single-variable calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+    - [ ] [MIT Single-variable calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) or courses from MIT on edx?
     - [ ] Getting the initial grasp on basic algorithms and data structures by using Cracking the code interview, some of the videos recommended by jwasham and anything else needed (I'm sure it's possible to find more content on that level) helps.
-1. [MIT Discrete Math]()
-1. [MIT Algorithms and Data Structures]()
+1. [MIT Discrete Math](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm) or check a resource with more content (there's a version from another year with lecture notes)
+1. [MIT Algorithms and Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 1. Follow the list
 1. Soft skills texts and videos?
 1. OOP-related stuff?
