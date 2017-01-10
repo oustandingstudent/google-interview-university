@@ -2,6 +2,7 @@
     - [ ] Geometry - coursera. Maybe only some parts of the course?
     - [ ] Mathematical thinking - coursera
     - [ ] Pre-University Calculus - edx (if necessary, there are pre-calculus courses on coursera that focus on trigonometry)
+        - Make sure to get foundations on trigonometry and logarithms
     - [ ] Single-variable calculus - OCW scholar
     - [ ] Getting the initial grasp on basic algorithms and data structures by using Cracking the code interview, some of the videos recommended by jwasham and anything else needed (I'm sure it's possible to find more content on that level) helps.
 1. Discrete Math - OCW course
